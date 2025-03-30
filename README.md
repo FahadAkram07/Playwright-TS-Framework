@@ -1,6 +1,6 @@
 # Automation of SimplyBe Website
 
-This repository contains the automated tests for the SimplyBe website. The tests focus on key user interactions, including signing in, signing up, and adding items to the cart. The implementation also incorporates Mailinator to handle email verification during the sign-in process.
+This repository contains the automated tests for the Ecommerce website. The tests focus on key user interactions, including signing in, signing up, and adding items to the cart. The implementation also incorporates Mailinator to handle email verification during the sign-in process.
 
 ## Automated Test Cases
 
@@ -15,7 +15,7 @@ This repository contains the automated tests for the SimplyBe website. The tests
 
 ## Why These Test Cases?
 
-These test cases were chosen because they represent the core functionalities of the SimplyBe website. Automating these flows ensures:
+These test cases were chosen because they represent the core functionalities of the Ecommercee website. Automating these flows ensures:
 - The integrity of the user authentication system.
 - A smooth user experience for new registrations.
 - The reliability of the e-commerce functionality, which is critical for customer satisfaction.
@@ -42,7 +42,7 @@ Test data for the automation was dynamically generated using the **Faker** libra
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/FahadAkram07/Playwright-Ts.git
    ```
 
 2. Install dependencies:

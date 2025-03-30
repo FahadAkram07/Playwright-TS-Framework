@@ -3,8 +3,8 @@ import { faker } from '@faker-js/faker';
 
 export class LogInCreds {
     static logInData(){
-        const email = "simplybetest@mailinator.com";
-        const password = "Helloworld@12345";
+        const email = "test@mailinator.com";
+        const password = "Test@12345";
         return {
             email,
             password,
