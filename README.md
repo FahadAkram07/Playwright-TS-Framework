@@ -1,4 +1,4 @@
-# Automation of SimplyBe Website
+# Automation of Ecommerce Website
 
 This repository contains the automated tests for the Ecommerce website. The tests focus on key user interactions, including signing in, signing up, and adding items to the cart. The implementation also incorporates Mailinator to handle email verification during the sign-in process.
 
@@ -57,4 +57,4 @@ Test data for the automation was dynamically generated using the **Faker** libra
 
 ## Conclusion
 
-This project demonstrates the use of robust automation practices to ensure the reliability of critical user flows on the SimplyBe website. The integration of Mailinator and the use of POM and Faker showcase a modern approach to test automation.
+This project demonstrates the use of robust automation practices to ensure the reliability of critical user flows on the Ecommerce website. The integration of Mailinator and the use of POM and Faker showcase a modern approach to test automation.
